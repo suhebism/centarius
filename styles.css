@@ -5,7 +5,7 @@ body {
     align-items: center;
     background-color: #000000;
     /* background-image: linear-gradient(to top, #141727 0%, #240A24 100%); */
-    font-family: "Jersey 25", sans-serif;
+    font-family: "Play", sans-serif;
 }
 
 
@@ -38,4 +38,22 @@ canvas.webgl {
   -webkit-border-radius: 10px;
   border-radius: 10px;
   background: #3983AD; 
+}
+
+
+
+.codedText {
+  padding:10px 15px;
+  margin:15px;
+  background:#000;
+  color:#fff;
+  text-align:center;
+  white-space: nowrap;
+  cursor:pointer;  
+}
+
+
+
+.text-stroke-3 {
+  -webkit-text-stroke: 2px #F8A924;
 }
