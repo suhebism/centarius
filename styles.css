@@ -6,6 +6,7 @@ body {
     background-color: #000000;
     /* background-image: linear-gradient(to top, #141727 0%, #240A24 100%); */
     font-family: "Play", sans-serif;
+    user-select: none;
 }
 
 
